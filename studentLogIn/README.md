@@ -2,6 +2,6 @@
 
 This is the log in sheet for students who attended the technical workshop
 
-# Student Names
+## Student Names
 
-| Name | Classifcation |
+Darien Allison | Junior | Cyber Security
