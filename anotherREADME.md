@@ -4,8 +4,8 @@
 
 ### List of Tasks Completed
 
-- Fork the repository
-- Pull the repository locally
-- Make changes in a new branch
-- Push the changes to the new branch
-- Squash and merge these changes to the main branch
+- [x] Fork the repository
+- [x] Pull the repository locally
+- [x] Make changes in a new branch
+- [x] Push the changes to the new branch
+- [x] Squash and merge these changes to the main branch
